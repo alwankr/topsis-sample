@@ -1,0 +1,1 @@
+this code i write when i finish final exam in university. this code to choose the best employee using decision support system with method TEHCNIQUE FOR ORDER PREFERENCE BY SIMILARITY TO IDEAL SOLUTION (TOPSIS) 
